@@ -7,6 +7,3 @@ def prime?(integer)
       else
         return false
       end
-    end
-
-    
