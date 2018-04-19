@@ -1,6 +1,6 @@
 
 def prime?(integer)
-  integer.select {|num| 
+  integer.select {|num|
   if num == % num
   true
 else
